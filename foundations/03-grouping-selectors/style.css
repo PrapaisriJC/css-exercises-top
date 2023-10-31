@@ -1,0 +1,14 @@
+.left-cheek,
+.right-cheek{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.left-cheek{
+    background-color: rgb(60,47,47);
+    color: #fff4e6;
+}
+
+.right-cheek{
+    background-color: #ffeead;
+}
